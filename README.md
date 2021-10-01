@@ -10,4 +10,4 @@ Traceback (most recent call last):
 ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
   
 When I connect to the server.
-It's a process. I many go insane. It's fine.
+
